@@ -1,0 +1,24 @@
+{
+  "name": "pwa-complete-guide",
+  "version": "1.0.0",
+  "description": "A complete guide to PWAs. Building a simple Instagram clone.",
+  "start_url": "index.html",
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "complete",
+    "tutorial"
+  ],
+  "icons": [
+    {
+    "src": "first-pwa-start/public/favicon.ico",
+    "type": "image/ico",
+    "sizes": "192x192"
+    }
+  ],
+  "background_color": "#fff",
+  "display": "standalone"
+  }
+}
